@@ -12,8 +12,8 @@ import java.util.Set;
  * that repeatedly reads input and generates output until the users wants to
  * leave.
  * 
- * @author David J. Barnes and Michael Kölling.
- * @version 2016.02.29
+ * @author Kenny Castro-Monroy
+ * @version 2021.26.04
  */
 public class SupportSystem {
     private InputReader reader;

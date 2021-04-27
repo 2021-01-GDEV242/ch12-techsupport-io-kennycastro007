@@ -11,8 +11,8 @@ import java.nio.file.*;
  * InputReader reads typed text input from the standard text terminal. The text
  * typed by a user is then chopped into words, and a set of words is provided.
  * 
- * @author David J. Barnes and Michael Kölling.
- * @version 2016.02.29
+ * @author Kenny Castro-Monroy
+ * @version 2021.26.04
  */
 public class InputReader {
     private Scanner reader;
